@@ -8,10 +8,3 @@ def ImprimirFibonacci(n):
     return fibonacci
 n=int(input("..."))
 print (ImprimirFibonacci(n))
-
-
-    
-
-
-    
-
